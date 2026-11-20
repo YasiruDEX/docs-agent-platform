@@ -115,11 +115,6 @@ const sidebars: SidebarsConfig = {
             },
             {
               "type": "doc",
-              "id": "agent-control-plane/develop/configure-the-build",
-              "label": "Configure the Build"
-            },
-            {
-              "type": "doc",
               "id": "agent-control-plane/develop/edit-agent-details",
               "label": "Edit Agent Details"
             },
